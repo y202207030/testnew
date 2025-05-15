@@ -1,0 +1,7 @@
+3way merge test file
+
+3way merge test file
+
+3way merge test file
+
+modify commit
